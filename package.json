@@ -1,0 +1,20 @@
+{
+  "name": "thunk-node",
+  "version": "0.1.0",
+  "description": "A lazily evaluated virtual DOM node",
+  "keywords": ["lazy","virtual-dom"],
+  "dependencies": {
+    "equals": "1"
+  },
+  "devDependencies": {
+    "assert": "jkroso/assert",
+    "serve": "jkroso/serve",
+    "hydro-html": "*",
+    "hydro-bdd": "*",
+    "hydro-dot": "*",
+    "hydro": "*"
+  },
+  "repository": "git://github.com/jsiom/thunk-node.git",
+  "files": ["index.js"],
+  "license": "MIT"
+}
